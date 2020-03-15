@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-No buzzwords, no jargons, and no gimmicks. Plain simple technology writeups.
+Articles, thoughts and answers about technology and business by [Jasraj Dey](mailto:zerochaoshq@gmail.com)
 
 
 Email: [zerochaoshq@gmail.com](mailto:zerochaoshq@gmail.com)
