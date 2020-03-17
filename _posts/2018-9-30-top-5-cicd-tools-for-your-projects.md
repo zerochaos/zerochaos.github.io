@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top CI/CD Tools For Your Projects
+title: Leading CI/CD Tools For Your Projects
 categories: [Continuous Integration, Continuous Deployment, CI/CD, Automation]
 ---
 
