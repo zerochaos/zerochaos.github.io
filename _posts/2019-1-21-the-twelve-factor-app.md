@@ -34,7 +34,7 @@ While applicable to any web applicaion, many practitioners consider it as a soli
 
 **12. Admin Processes:** Run administrative/management tasks as one-off processes. Tasks can include data cleanup and pulling analytics for a report. Tools executing these tasks should be invoked from the production environment, but separately from the application.
 
-Learn more about the Twelve-Factor Application at https://12factor.net(https://12factor.net)
+Learn more about the Twelve-Factor Application at [https://12factor.net](https://12factor.net)
 
 
 
