@@ -8,7 +8,7 @@ With the overflowing number of CI/CD tools available in the market, teams may st
 
 ![CICD Comparison](/images/postimg/cicdcompare.png)
 
-1. Jenkins
+###1. Jenkins
 Jenkins is an open-source automation server in which the central build and continuous integration process take place. It is a self-contained Java-based program with packages for Windows, macOS, and other Unix-like operating systems. With hundreds of plugins available, Jenkins supports building, deploying, and automating for software development projects.
 
 Key features:
