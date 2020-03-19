@@ -8,19 +8,19 @@ With the overflowing number of CI/CD tools available in the market, teams may st
 
 ![CICD Comparison](/images/postimg/cicdcompare.png)
 
-### 1. Jenkins
+#### Jenkins
 Jenkins is an open-source automation server in which the central build and continuous integration process take place. It is a self-contained Java-based program with packages for Windows, macOS, and other Unix-like operating systems. With hundreds of plugins available, Jenkins supports building, deploying, and automating for software development projects.
 
 **Key features:**
 
-Easy installation and upgrade on various OSs
-Simple and user-friendly interface
-Extensible with huge community-contributed plugin resource
-Easy environment configuration in the user interface
-Supports distributed builds with master-slave architecture
-Build schedules based on expressions
-Supports shells and Windows command execution in pre-build steps
-Supports notification on the build status
+1. Easy installation and upgrade on various OSs
+2. Simple and user-friendly interface
+3. Extensible with huge community-contributed plugin resource
+4. Easy environment configuration in the user interface
+5. Supports distributed builds with master-slave architecture
+6. Build schedules based on expressions
+7. Supports shells and Windows command execution in pre-build steps
+8. Supports notification on the build status
 
 
 
