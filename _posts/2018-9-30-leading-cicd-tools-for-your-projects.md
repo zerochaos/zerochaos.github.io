@@ -13,7 +13,7 @@ Jenkins is an open-source automation server in which the central build and conti
 
 Key features:
 
-    - Easy installation and upgrade on various OSs
+    * Easy installation and upgrade on various OSs
     - Simple and user-friendly interface
     - Extensible with huge community-contributed plugin resource
     - Easy environment configuration in the user interface
