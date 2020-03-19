@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Twelve Factor Application
-categories: [Cloud]
+categories: [Modern Design, Cloud, Microservices]
 ---
 
 A widely accepted methodology for constructing modern applications is the [Twelve-Factor Application](https://12factor.net). It describes a set of principles and practices that developers follow to construct applications optimized for modern cloud environments. Special attention is given to portability across environments and declarative automation.
