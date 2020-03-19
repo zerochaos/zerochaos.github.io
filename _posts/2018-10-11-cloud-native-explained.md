@@ -4,7 +4,7 @@ title: Cloud Native Explained
 categories: [Cloud, DevOps]
 ---
 
-Cloud Native Computing Foundation (CNCF) states Cloud Native strategy is about scale and resilience: “distributed systems capable of scaling to tens of thousands of self healing multi-tenant nodes”. Cloud Native is about getting new products and services to market faster. Whether a business is a startup or an Enterprise trying to evolve more quickly, they want to use a Cloud Native architecture in order to innovate more rapidly.
+Cloud Native Computing Foundation (CNCF) states that the Cloud Native strategy is about scale and resilience: “distributed systems capable of scaling to tens of thousands of self healing multi-tenant nodes”. Cloud Native is about getting new products and services to market faster. Whether a business is a startup or an Enterprise trying to evolve more quickly, they want to use a Cloud Native architecture in order to innovate more rapidly.
 
 ## The Purpose of Cloud Native
 “Cloud Native” is the name of a particular approach to designing, building and running applications based on infrastructure-as-a-service combined with new operational tools and services like continuous integration, container engines and orchestrators. The overall objective is to improve speed, scalability and finally margin.
