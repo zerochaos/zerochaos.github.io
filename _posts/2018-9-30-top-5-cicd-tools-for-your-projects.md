@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leading CI/CD Tools For Your Projects
-categories: [Continuous Integration, Continuous Deployment, CI/CD, Automation]
+categories: [DevOps, CI/CD, Automation]
 ---
 
 With the overflowing number of CI/CD tools available in the market, teams may struggle to pick out the right tools. This list contains the five leading tools, along with their key features, to make the selection process easier for you and your team.
