@@ -23,7 +23,7 @@ There are many benefits of implementing the principle of least privilege.
 4. Better stability
 5. Improved audit readiness
 
-## Best Practices for Implementation
+## Best Practices
 1. Conduct a privilege audit. Check all existing accounts, processes, and programs to ensure that they only have the permissions required to do the job.
 2. Start all accounts with least privilege. The default for all new account privileges should be set as low as possible. Only add specific higher-level powers as needed to perform the job.
 3. Enforce the separation of privileges. Separate admin accounts from standard accounts, and higher level system functions from lower ones.
