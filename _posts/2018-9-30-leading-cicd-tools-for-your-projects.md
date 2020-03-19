@@ -21,7 +21,7 @@ Jenkins is an open-source automation server in which the central build and conti
 7. Supports shells and Windows command execution in pre-build steps
 8. Supports notification on the build status
 
-URL: [https://jenkins.io]
+URL: [https://jenkins.io](https://jenkins.io)
 
 ## CircleCI
 CircleCI is a CI/CD tool that supports rapid software development and publishing. CircleCI allows automation across the user’s pipeline, from code building, testing to deployment. 
@@ -40,7 +40,7 @@ You can integrate CircleCI with GitHub, GitHub Enterprise, and Bitbucket to crea
 9. Automated merging and custom commands for package uploading
 10 Fast setup and unlimited builds
 
-URL: [https://circleci.com]
+URL: [https://circleci.com](https://circleci.com)
 
 ## TeamCity
 TeamCity is a JetBrains’s build management and continuous integration server. 
@@ -55,7 +55,7 @@ TeamCity is a continuous integration tool that helps building and deploying diff
 5. Keeps the CI server functional and stable 
 6. Flexible user management, user roles assignment, and sorting users into groups.
 
-URL: [https://www.jetbrains.com/teamcity/]
+URL: [https://www.jetbrains.com/teamcity/](https://www.jetbrains.com/teamcity/)
 
 ## Bamboo
 Bamboo is a continuous integration server that automates the management of software application releases, thus creating a continuous delivery pipeline. Bamboo covers building and functional testing, assigning versions, tagging releases, deploying and activating new versions on production.
@@ -68,7 +68,7 @@ Bamboo is a continuous integration server that automates the management of softw
 5. Detects new branches in Git, Mercurial, SVN Repos and applies the main line’s CI scheme to them automatically
 6. Triggers build based on the changes detected in the repository. Pushes notifications from Bitbucket, a set schedule, the completion of another build or any combination thereof.
 
-URL: [https://www.atlassian.com/software/bamboo]
+URL: [https://www.atlassian.com/software/bamboo](https://www.atlassian.com/software/bamboo)
 
 ## GitLab
 GitLab is a suite of tools for managing different aspects of the software development lifecycle. The core product is a web-based Git repository manager with features such as issue tracking, analytics, and a Wiki. 
@@ -83,7 +83,7 @@ GitLab allows you to trigger builds, run tests, and deploy code with each commit
 5. Provides container scanning, static application security testing (SAST), dynamic application security testing (DAST), and dependency scanning to deliver secure applications along with license compliance
 6. Helps automate and shorten releases and delivery of applications
 
-**URL:** [https://about.gitlab.com/]
+**URL:** [https://about.gitlab.com/](https://about.gitlab.com/)
 
 
 
