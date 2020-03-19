@@ -8,12 +8,6 @@ It is Saturday morning, and I seem to have a writer's block. Just done with my c
 
 >“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.” - Ryan Campbell
 
->“Simplicity, carried to the extreme, becomes elegance.” — Jon Franklin
-
->“Before software should be reusable, it should be usable.” — Ralph Johnson
-
->“If you automate a mess, you get an automated mess.” — Rod Michael
-
 >“It is easier to change the specification to fit the program than vice versa.” — Alan Perlis
 
 >“If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent.'” — Edsger Dijkstra
