@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Famous Tech Quotes
+title: Famous Programming Quotes
 categories: Technology
 ---
 
