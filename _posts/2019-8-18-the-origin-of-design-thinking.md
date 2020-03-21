@@ -18,3 +18,26 @@ The design thinking process has become increasingly popular over the last few de
 
 Design thinking improves the world around us every day because of its ability to generate ground-breaking solutions in a disruptive and innovative way. Design thinking is more than just a process, it opens up an entirely new way to think, and offers a collection of hands-on methods to help you apply this new mindset. 
 
+## The Five Stages of Design Thinking
+
+The Hasso Plattner Institute of Design at Stanford, commonly known as the d.school, describes design thinking as a five-stage process. It’s important to note these stages are not always sequential and designers can often run the stages in parallel, out of order and repeat them in an iterative fashion.
+
+The various stages of design thinking should be understood as different modes which contribute to the entire design project, rather than sequential steps. The ultimate goal throughout is to derive as deep an understanding of the product and its users as possible. 
+
+
+### Stage 1: Empathize—Research Your Users' Needs
+The first stage of the design thinking process allows you to gain an empathetic understanding of the problem you’re trying to solve, typically through user research. Empathy is crucial to a human-centered design process like design thinking because it allows you to set aside your own assumptions about the world and gain real insight into users and their needs.
+
+### Stage 2: Define—State Your Users' Needs and Problems
+In the Define stage, you accumulate the information you created and gathered during the Empathize stage. You analyze your observations and synthesize them to define the core problems you and your team have identified so far. You should always seek to define the problem statement in a human-centered manner as you do this.
+
+### Stage 3: Ideate—Challenge Assumptions and Create Ideas
+Designers are ready to generate ideas as they reach the third stage of design thinking. The solid background of knowledge from the first two phases means you can start to “think outside the box”, look for alternative ways to view the problem and identify innovative solutions to the problem statement you’ve created.
+
+### Stage 4: Prototype—Start to Create Solutions
+This is an experimental phase, and the aim is to identify the best possible solution for each of the problems identified during the first three stages. Design teams will produce a number of inexpensive, scaled-down versions of the product (or specific features found within the product) to investigate the problem solutions generated in the previous stage.
+
+### Stage 5: Test—Try Your Solutions Out
+Designers or evaluators rigorously test the complete product using the best solutions identified in the Prototype phase. This is the final phase of the model but, in an iterative process such as design thinking, the results generated are often used to redefine one or more further problems. Designers can then choose to return to previous stages in the process to make further iterations, alterations and refinements to rule out alternative solutions.
+
+
