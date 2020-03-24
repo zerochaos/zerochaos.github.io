@@ -24,7 +24,6 @@ The Hasso Plattner Institute of Design at Stanford, commonly known as the d.scho
 
 The various stages of design thinking should be understood as different modes which contribute to the entire design project, rather than sequential steps. The ultimate goal throughout is to derive as deep an understanding of the product and its users as possible. 
 
-
 ### Stage 1: Empathize—Research Your Users' Needs
 The first stage of the design thinking process allows you to gain an empathetic understanding of the problem you’re trying to solve, typically through user research. Empathy is crucial to a human-centered design process like design thinking because it allows you to set aside your own assumptions about the world and gain real insight into users and their needs.
 
