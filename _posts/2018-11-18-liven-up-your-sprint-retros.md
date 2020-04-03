@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Liven Up Sprint Retros
+title: Liven Up Your Sprint Retros
 categories: [Agile, Scrum]
 ---
 
