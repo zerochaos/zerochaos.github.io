@@ -12,7 +12,7 @@ And once you have completed the sprint, how do you verify its success?
 
 Enter, sprint retrospective.
 
-## Commence, continue, cease
+## Commence, Continue, Cease
 The sprint retrospective meeting forms a vital part of the scrum process and takes place at the
 end of a sprint. It focuses on improving the efficacy of future sprints by bringing the team
 together to reflect and discuss the following aspects:
@@ -26,16 +26,16 @@ Although the above discussed aspects form the foundation of a good sprint retros
 
 So, what do you do?
 
-## Bring in novelty
+## Bring in Novelty
 Introduce games or other productive activities that are relevant to your team or project, and requires each team member to participate. Generate interest by asking each one of them about their expectations, share your expectations, and see how you create fun, engaging conversations.
 
-## Maintain focus
+## Maintain Focus
 The goal is to concentrate efforts towards making the next sprint more effective. So, stay focused on the retrospective agenda by employing kanban boards. This approach will help address problems and challenges encountered during the sprint in an organized manner.
 
-## Ensure an actionable outcome
+## Ensure an Actionable Outcome
 To see the desired results, make sure that each team member is assigned an actionable task. Engage in constructive conversations, understand the requirements, and furnish a list of tasks with a set deadline, which everyone can see and adhere to.
 
-## Appreciate team effort
+## Appreciate Team Effort
 Never skip this. Always congratulate the team and thank them for the work they have put in the project. This will leave a positive impression on the team and motivate them to perform better in the next sprint.
 
 Now, these were just a few ways in which you can ensure you run an effective sprint retrospective. Depending upon your team composition, current project stage, and performance trajectory you can improvise these meetings to keep the engagement and motivation level high.
